@@ -1,7 +1,7 @@
-package estrutura_de_dados;
+package atividade3;
 import java.util.Scanner;
 
-public class Atividade_02 {
+public class DependencyInversionViolation {
 	private static Scanner scanner;
 
 	public static void main(String[] args) {
