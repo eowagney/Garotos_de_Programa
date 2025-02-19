@@ -35,7 +35,9 @@ class Switch {
 
 ```
 *ERROS*
+
 1- class LightBulb está com mais de uma função 
+
 2- class Switch está com sobreposição de métodos e mais de uma função
 
 
