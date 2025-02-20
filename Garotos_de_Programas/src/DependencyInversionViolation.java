@@ -14,7 +14,6 @@ public class DependencyInversionViolation {
 
 	class Switch implements LightBulb{
 
-
 	    public void turnOn() {
 	    	System.out.println("LightBulb is ON");
 	    }
